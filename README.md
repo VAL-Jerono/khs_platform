@@ -3,7 +3,7 @@
 
 > Modelling housing-based financial vulnerability and insurance risk across all 47 Kenyan counties using the 2023/24 KNBS Kenya Housing Survey microdata.
 
-**Live:** https://your-app.vercel.app
+**Live:** https://khsplatform.vercel.app/
 
 ---
 
@@ -23,8 +23,8 @@
 ## Local Development
 
 ```bash
-git clone https://github.com/your-username/khs-hfvs-platform
-cd khs-hfvs-platform
+git clone https://github.com/VAL-Jerono/khs_platform.git
+cd khs_platform
 npm install
 npm run dev
 # → http://localhost:3000
